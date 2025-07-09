@@ -1,4 +1,4 @@
-package chapter3.generic.lambda;
+package chapter3.lambda;
 
 @FunctionalInterface // ✅ 함수형 인터페이스 선언
 public interface Calculator {

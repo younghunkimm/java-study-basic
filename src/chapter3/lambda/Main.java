@@ -1,4 +1,4 @@
-package chapter3.generic.lambda;
+package chapter3.lambda;
 
 public class Main {
     public static void main(String[] args) {
